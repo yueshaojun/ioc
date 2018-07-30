@@ -1,0 +1,4 @@
+#Mon Jul 30 19:16:01 CST 2018
+base.0=/Users/yueshaojun/Downloads/ioc/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<container>
+    <bean name="computerName"
+        path="com.example.yueshaojun.ioc.bean.Computer">
+        <dependence
+            name="hostName"
+            path="com.example.yueshaojun.ioc.bean.Host" />
+    </bean>
+</container>
